@@ -13,12 +13,12 @@
         line-height: 1.1;
         margin: 0;
         font-weight: 600;
-        color: $LightestSlate;
+        color: $Brown;
         margin: 0 0 10px 0;
         font-family: $MainFont;
     }
     .archive-subtitle{
-        color: $Green;
+        color: $Brown;
         margin: 0 0 20px 0;
         font-size: 16px;
         font-family: $CodeFont;
@@ -49,11 +49,11 @@
 
 
                     &:hover, &:focus {
-                        background-color: $LightNavy;
+                        background-color: $aqua;
                     }
 
                     .proyect-date{
-                        color: $Green;
+                        color: $Brown;
                         font-family: $CodeFont;
                         font-size: 16px;
                         font-weight: normal;
@@ -65,7 +65,7 @@
 
                     .proyect-title{
                         padding-top: 15px;
-                        color: $LightestSlate;
+                        color: $Brown;
                         font-size: 20px;
                         font-weight: 700;
                         cursor: default;

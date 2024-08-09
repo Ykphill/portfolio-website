@@ -7,14 +7,14 @@
   "Header.cvName": "CV_Jose_Hernandez_Spanish.pdf",
 
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "I have <span class='underline'>8 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and <span class='underline'>Laravel</span>, applying good practices and development standards.",
+  "Banner.Description": "I am a Senior at Kennesaw State University studying for a<span class='focus'> Bachelor’s of Computer Science</span> who enjoys bringing people together. One acomplishment is helping found the Artificial Intelligence Club at KSU that helps students grow. With over a year and a half of experience from internships, I have a used technogies such as <span class='focus'>Python, Angular, Flutter</span> and much more.",
   "Banner.ActionBtn": "Say Hi",
 
   "AboutMe.Title": "About Me",
   "AboutMe.Paragraphs": [
-    "In <span class='underline'>8 years of experience</span> I have covered many roles: <span class='underline'>Systems Analyst</span>, <span class='underline'>Backend Developer</span>, <span class='underline'>Frontend Developer</span>, and <span class='underline'>Technical Lead</span>. I love contributing my knowledge to create new things that help solve problems.",
-    "My capabilities also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I am working on.",
-    "I also program things for my personal use, whether for hobby or utility.",
+    "In <span class='focus'>1.5 years of experience</span> I have been able contribute to developing for software ADP and Signify. These job have given me experience in front-end development with Web and Mobile apps. I have also been able refine my soft skills of creating positive enviroments and knowing when to give input. ",
+    "While at school I focused on bringing people together with clubs, events, and group tutoring. I have also pushed myself to learn outside the classroom participating in hackathons and club lectures on technologies.",
+    "In my future I hope to work in a role that allows me to learn more and help more people.",
     "Some of the technologies I have trained and worked with include (but are not limited to):"
   ],
 

@@ -21,7 +21,7 @@
             .feature-proyect {
                 font-size: 13px;
                 font-weight: normal;
-                color: $Green;
+                color: $Brown;
                 font-family: $CodeFont;
                 margin-top: 10px;
                 padding-top: 0;
@@ -29,7 +29,7 @@
             .proyect-name {
                 font-size: 28px;
                 margin: 0 0 20px;
-                color: $LightestSlate;
+                color: $Brown;
             }
             .proyect-description-box {
                 box-shadow: 0 10px 30px -15px rgba(2, 12, 27, 0.7);
@@ -38,8 +38,8 @@
                 position: relative;
                 z-index: 2;
                 padding: 25px;
-                background-color: $LightNavy;
-                color: $LightSlate;
+                background-color: $aqua;
+                color: $LightBrown;
                 font-size: 18px;
                 border-radius: 3px;
             }
@@ -60,7 +60,7 @@
                     margin-right: 0;
                     font-family: $CodeFont;
                     font-size: 13px;
-                    color: $Slate;
+                    color: $weirdBlue;
                     margin-bottom: 7px;
                     white-space: nowrap;
                     .technology{
@@ -136,7 +136,7 @@
                 z-index: 2;
                 padding: 25px;
                 background-color: transparent !important;
-                color: $LightSlate;
+                color: $LightBrown;
                 font-size: 18px;
                 border-radius: 3px;
             }
@@ -215,7 +215,7 @@
 /* Handle */
 
  ::-webkit-scrollbar-thumb {
-    background: $Green;
+    background: $Brown;
     border-radius: 3px;
 }
 
@@ -223,5 +223,5 @@
 /* Handle on hover */
 
  ::-webkit-scrollbar-thumb:hover {
-    background: $Green;
+    background: $Brown;
 }

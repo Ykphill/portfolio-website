@@ -15,15 +15,15 @@
     }
 
     a.active{
-        background-color: $LightNavy !important;
-        color: $Green !important;
+        background-color: $aqua !important;
+        color: $Brown !important;
         border-color: transparent !important;
         border-radius: 0px;
     }
     
     a:hover{
-        background-color: $LightNavy !important;
-        color: $Green !important;
+        background-color: $aqua !important;
+        color: $Brown !important;
         border-color: transparent !important;
         border-radius: 0px;
     }
@@ -57,11 +57,11 @@
         white-space: nowrap;
         font-family: $CodeFont;
         font-size: 13px;
-        color: $Slate;
+        color: $weirdBlue;
     }
 
     li{
-        border-left: 2px solid $LightestNavy;
+        border-left: 2px solid $weirdBlue;
         border-left-width: 2px;
         border-left-style: solid;
         border-left-color: rgb(48, 60, 85);
@@ -74,13 +74,13 @@
     margin: auto;
 
     .title-tab-content{
-        color: $LightestSlate;
+        color: $Brown;
         font-size: 22px;
         font-weight: 500;
         margin-bottom: 5px;
 
         .company-tab-content{
-            color: $Green;
+            color: $Brown;
         }
     }
 
@@ -92,7 +92,7 @@
         -moz-letter-spacing: 0.05em;
         -ms-letter-spacing: 0.05em;
         letter-spacing: 0.05em;
-        color: $LightSlate;
+        color: $LightBrown;
         margin-bottom: 30px;
     }
     
@@ -106,7 +106,7 @@
             content: '▹';
             position: absolute;
             left: 0;
-            color: $Green;
+            color: $Brown;
         }
     }
 }
